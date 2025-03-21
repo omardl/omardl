@@ -1,5 +1,5 @@
 ### 👋 ¡Hola! Soy Omar.
-### 🔭 Durante los 10 últimos meses, he trabajado desarrollando apliaciones web utilizando tecnologías como Spring Boot, MySQL y Angular.
+### 🔭 Durante los 10 últimos meses, he trabajado en el desarrollo de aplicaciones web utilizando tecnologías como Spring Boot, MySQL y Angular.
 ### 👨‍🎓 Actualmente estoy a punto de terminar el Grado en Ingeniería de Tecnologías de Telecomunicación de la UVigo.
 ### 💻 Aquí podrás ver algunos de los proyectos que desarrollé durante la carrera y otros más personales. ¡Echa un vistazo!
 ### 📬 omardelgadlop@gmail.com
