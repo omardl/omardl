@@ -1,5 +1,5 @@
 ### 👋 ¡Hola! Soy Omar.
-### 🔭 Durante los últimos dos años he trabajado en desarrollo de aplicaciones web y como consultor de sistemas MES utilizando tecnologías como C#, .NET, SQL Server, Spring Boot y Angular.
+### 🔭 Durante los últimos dos años he trabajado como desarrollador de aplicaciones web y como consultor de sistemas MES utilizando tecnologías como C#, .NET, SQL Server, Spring Boot y Angular.
 ### 👨‍🎓 Graduado en Ingeniería de Tecnologías de Telecomunicación de la UVigo.
 ### 💻 Aquí podrás ver algunos de los proyectos que desarrollé durante la carrera y otros más personales. ¡Echa un vistazo!
 ### 📬 omardelgadlop@gmail.com
